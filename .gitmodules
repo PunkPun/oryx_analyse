@@ -1,0 +1,3 @@
+[submodule "oryx_data"]
+	path = oryx_data
+	url = https://github.com/scarnecchia/oryx_data
